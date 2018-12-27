@@ -1,0 +1,13 @@
+node_modules/
+
+config/docker-compose.yaml
+
+package-lock.json
+
+.gitignore
+
+.git/
+
+*.log
+
+
