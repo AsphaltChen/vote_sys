@@ -1,0 +1,6 @@
+server:
+  port: 6700
+
+db:
+  uri: "postgresql://asphalt:xsdm123456@localhost:5432/asphalt"
+  schema: "asphalt"

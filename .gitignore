@@ -1,0 +1,37 @@
+# configuration
+config/local*.*
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Dependency directory
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
+node_modules/
+package-lock.json
+shrinkwrap.yaml
+
+# IDE config
+.idea
+.vscode/
+
+# output
+*output/
+output.tar.gz
+
+app/
+
+runtime/
+
+# ENV
+.env
+
+# apidoc
+apidoc/
+
+# runtime
+uploads/

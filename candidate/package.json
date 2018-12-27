@@ -1,0 +1,27 @@
+{
+  "name": "candidate",
+  "version": "1.0.0",
+  "description": "Server of candidate system ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Asphalt (chen guo)",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.0.1",
+    "hapi": "^17.8.1",
+    "hapi-router": "^4.0.0",
+    "hapi-sequelizejs": "^1.3.0",
+    "hapi-swagger": "^9.3.0",
+    "inert": "^5.1.2",
+    "joi": "^14.3.0",
+    "js-yaml": "^3.12.0",
+    "pg": "^7.7.1",
+    "pg-hstore": "^2.3.2",
+    "pino": "^5.10.5",
+    "randomatic": "^3.1.1",
+    "sequelize": "^4.42.0",
+    "vision": "^5.4.4"
+  }
+}

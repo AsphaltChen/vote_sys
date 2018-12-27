@@ -1,0 +1,12 @@
+server:
+  port: 6899
+
+axios:
+  per:
+    baseURL: "http://localhost:6199"
+    timeout: 3000
+    headers: { "Content-Type": "application/json" }
+  cache:
+    baseURL: "http://localhost:6099"
+    timeout: 3000
+    headers: { "Content-Type": "application/json" }

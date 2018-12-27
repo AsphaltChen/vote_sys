@@ -1,0 +1,9 @@
+server:
+  port: 6099
+
+redis:
+  url: "redis://@localhost:6379/0"
+
+retry:
+  total_retry_time_in_second: 60
+  connect_timeout_in_second: 5
